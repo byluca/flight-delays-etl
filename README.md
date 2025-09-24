@@ -1,17 +1,4 @@
-Certamente. Ecco un file `README.md` completo, professionale e ben formattato. Segue le migliori pratiche per documentare un progetto su piattaforme come GitHub.
 
-Il linguaggio usato è il **Markdown**, un linguaggio di formattazione molto semplice. Quando lo visualizzerai su GitHub (o in un editor che lo supporta), i `#` diventeranno titoli, i `-` diventeranno liste puntate e i ``` diventeranno blocchi di codice.
-
----
-
-### Contenuto del File `README.md`
-
-**Azione:**
-1.  Crea un nuovo file di testo nella cartella del tuo progetto.
-2.  Copia e incolla tutto il testo seguente.
-3.  Salvalo con il nome esatto **`README.md`** (l'estensione `.md` è importante).
-
-```markdown
 # Flight Delays ETL Pipeline
 
 **Author(s):** Lascaro Gianluca, Morbidelli Filippo, Trincia Elio
@@ -111,3 +98,4 @@ This project includes a separate script, `audit_data_integrity.py`, to independe
 python audit_data_integrity.py
 ```
 ```
+
