@@ -1,7 +1,7 @@
 # ==============================================================================
 # Flight Delays ETL Pipeline
 #
-# Author: [Your Name/Group Names]
+# Author: Lascaro Gianluca, Morbidelli Filippo,Trincia Elio
 # Course: Master in Artificial Intelligence - Data Engineering
 #
 # Description:
