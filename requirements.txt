@@ -1,1 +1,3 @@
-"pandas\nsqlalchemy" 
+pandas
+SQLAlchemy
+mysql-connector-python
